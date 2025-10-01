@@ -50,8 +50,8 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&count_private=true&hide_border=true&title_color=dd8927&icon_color=dd8927&text_color=dd8927&bg_color=0d1117" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=itsmenicky&hide_border=true&background=0d1117&currStreakNum=dd8927&sideNums=dd8927&currStreakLabel=dd8927&sideLabels=dd8927&dates=dd8927&fire=dd8927&ring=dd8927" alt="GitHub Streak"/>
+  <img width="50%" src="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&count_private=true&hide_border=true&title_color=dd8927&icon_color=dd8927&text_color=dd8927&bg_color=0d1117" alt="GitHub Stats"/>
+  <img width="-50%" src="https://streak-stats.demolab.com/?user=itsmenicky&hide_border=true&background=0d1117&currStreakNum=dd8927&sideNums=dd8927&currStreakLabel=dd8927&sideLabels=dd8927&dates=dd8927&fire=dd8927&ring=dd8927" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&hide_border=true&title_color=dd8927&text_color=dd8927&bg_color=0d1117" alt="Top Languages"/>
 </p>
