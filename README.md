@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=dd8927&center=true&width=1000&lines=Greetings+Programs!+I'm+Nickolas!)](https://git.io/typing-svg)
-<table style="width: 100%">
+
+<table align="center" width="100%" margin="50">
   <tr>
-    <td valign="top" width="100%">
-
-  ### 🧬 About me
-
+    <td valign="top">
+      <h3>🧬 About me</h3>
+      <pre>
 🎯 I'm focused on developing innovative automation solutions  
 📚 I'm currently studying artificial intelligence and neural networks  
 💬 Let's discuss about artificial intelligence and software architecture  
 📫 Contact me: contato.nickolasmartins@gmail.com
       </pre>
     </td>
-    <td align="center" width="30%">
-      <img src="https://i.gifer.com/Hihj.gif" height="300" width="200" alt="Tron-style GIF"/>
+    <td>
+      <img align="right" src="https://i.gifer.com/Hihj.gif" height="400" width="300" alt="Tron-style GIF"/>
     </td>
   </tr>
 </table>
@@ -49,9 +49,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=itsmenicky&show_icons=true&count_private=true&hide_border=true&title_color=dd8927&icon_color=dd8927&text_color=dd8927&bg_color=0d1117" alt="GitHub Stats"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=itsmenicky&hide_border=true&background=0d1117&currStreakNum=dd8927&sideNums=dd8927&currStreakLabel=dd8927&sideLabels=dd8927&dates=dd8927&fire=dd8927&ring=dd8927" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=itsmenicky&layout=compact&hide_border=true&title_color=dd8927&text_color=dd8927&bg_color=0d1117" alt="Top Languages"/>
