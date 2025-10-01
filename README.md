@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=dd8927&center=true&width=1000&lines=Greetings+Programs!+I'm+Nickolas!)](https://git.io/typing-svg)
 
 <div align="right">
-  <img src="https://i.gifer.com/Hihj.gif" height="400" width="300"/>
+  <img src="https://i.gifer.com/Hihj.gif" height="300" width="200"/>
 </div>
 
 ### 🧬 About me
