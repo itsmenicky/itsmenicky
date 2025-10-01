@@ -12,7 +12,7 @@
       </pre>
     </td>
     <td>
-      <img align="right" src="https://i.gifer.com/Hihj.gif" height="400" width="300" alt="Tron-style GIF"/>
+      <img align="right" src="https://i.gifer.com/Hihj.gif" height="300" width="200" alt="Tron-style GIF"/>
     </td>
   </tr>
 </table>
