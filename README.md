@@ -1,16 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monospace&size=30&color=dd8927&center=true&width=1000&lines=Greetings+Programs!+I'm+Nickolas!)](https://git.io/typing-svg)
+<table style="width: 100%">
+  <tr>
+    <td valign="top" width="100%">
 
-<div align="right">
-  <img src="https://i.gifer.com/Hihj.gif" height="300" width="200"/>
-</div>
+  ### 🧬 About me
 
-### 🧬 About me
-```txt
-- 🎯 I'm focused on developing innovative automation solutions
-- 📚 I'm currently studying artificial intelligence and neural networks
-- 💬 Let's discuss about artificial intelligence and software architecture
-- 📫 Contact me: contato.nickolasmartins@gmail.com
-```
+🎯 I'm focused on developing innovative automation solutions  
+📚 I'm currently studying artificial intelligence and neural networks  
+💬 Let's discuss about artificial intelligence and software architecture  
+📫 Contact me: contato.nickolasmartins@gmail.com
+      </pre>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://i.gifer.com/Hihj.gif" height="300" width="200" alt="Tron-style GIF"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://i.gifer.com/D4Ll.gif" height="40" width="100%"/>
 </div>
